@@ -15,6 +15,6 @@ public class HelloController {
 
     @GetMapping
     public String hello(){
-        return "测试自动化部署1";
+        return "测试自动化部署2";
     }
 }
