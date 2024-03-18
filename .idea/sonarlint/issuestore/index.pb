@@ -5,3 +5,6 @@ Y
 )src/main/java/com/beizhi/Application.java,7\5\75baad3419194538360027d819880817fa325f17
 h
 8src/main/java/com/beizhi/controller/HelloController.java,a\2\a2cd70daa0bda644c92563120520879e3e6a9922
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
